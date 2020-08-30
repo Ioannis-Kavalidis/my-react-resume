@@ -1,0 +1,12 @@
+body {
+  color: $gray-600;
+  padding-top: 54px;
+  @include body-font;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-left: $sidebar-base-width;
+    padding-top: 0;
+  }
+}
