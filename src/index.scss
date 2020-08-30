@@ -6,3 +6,7 @@
 
 // Import bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+// Import custom SCSS
+@import "./scss/mixins";
+@import "./scss/global";
