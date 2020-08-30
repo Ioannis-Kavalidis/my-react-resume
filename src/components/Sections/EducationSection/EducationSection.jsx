@@ -17,7 +17,7 @@ const EducationSection = () => (
       <ResumeItem //mb-5
         heading="Higher Technological Institute of Thessaloniki (Greece) "
         subHeading="Bachelor of Business Administration"
-        date="September 2000 - July 2006"
+        date="September 2000 - June 2006"
       >
         <div>
           <div>Major - Tourism and Hospitality</div>
