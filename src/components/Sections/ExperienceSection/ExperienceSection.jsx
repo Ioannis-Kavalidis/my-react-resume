@@ -23,7 +23,7 @@ const ExperienceSection = () => (
         date="November 2015 - November 2017"
       >
         <p>
-          • take part in drawing the department's annual budget in line with
+          • Take part in drawing the department's annual budget in line with
           hotel strategy <br />• Validate recruitment processes as also enhance
           team spirit and aspirations of growth <br />• Organise and supervise
           the preparation of points of sale according to activity forecasts
@@ -32,7 +32,7 @@ const ExperienceSection = () => (
       <ResumeItem
         heading="Assistant Food and Beverage Manager"
         subHeading="Robinson Club Kalimera Kriti (Greece)"
-        date="November 2014 - November 2015"
+        date="April 2014 - November 2015"
       >
         <p>
           • Assist in budget preparation and expense management activities
