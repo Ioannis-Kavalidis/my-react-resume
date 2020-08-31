@@ -17,12 +17,12 @@ const App = () => (
       <AboutSection />
       <SectionDivider />
 
-      {/* Experience Section */}
-      <ExperienceSection />
-      <SectionDivider />
-
       {/* Education Section */}
       <EducationSection />
+      <SectionDivider />
+
+      {/* Experience Section */}
+      <ExperienceSection />
       <SectionDivider />
 
       {/* Skills Section */}

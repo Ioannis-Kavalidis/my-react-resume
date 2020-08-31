@@ -14,8 +14,9 @@ const InterestsSection = () => (
       </p>
       <p className="mb-0">
         Favourite book: “The seven habits of highly effective people” by Stephen
-        R. Covey Current reading: “Abundance: The future is better than you
-        think” by Peter Diamandis
+        R. Covey <br />
+        Current reading: “Abundance: The future is better than you think” by
+        Peter Diamandis
       </p>
     </div>
   </ResumeSection>
