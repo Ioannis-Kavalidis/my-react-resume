@@ -5,7 +5,7 @@ import { Element } from "react-scroll";
 const ResumeSection = ({ name, children }) => (
   <Element
     name={name}
-    className="resume-section p-3 p-lg-5 d-flex align-items-center"
+    className="resume-section  p-3 p-lg-5 d-flex align-items-center"
   >
     {children}
   </Element>

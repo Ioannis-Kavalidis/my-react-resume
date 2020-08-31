@@ -10,14 +10,17 @@ const AboutSection = () => (
         <span className="text-primary">Kavalidis</span>
       </h1>
       <div className="subHeading mb-5">
-        Hallandstrasse 46 · Berlin, Berlin · +49-(176)- 42008433 ·
+        Hallandstrasse 46, Berlin, Germany &nbsp;·&nbsp; +49-(176)-42008433
+        &nbsp;·&nbsp;{" "}
         <a href="mailto:name@email.com">kavalidisioannis@yahoo.gr</a>
       </div>
-      <p className="lead mb-5">
-        Aspiring Web-Developer with a strong will, positive attitude, learning
-        mentality and hands-on personality. Iterate different approaches into
-        business strategy in order to foster collaborative thinking to further
-        the overall value proposition of any task at hand.
+      <p className="lead text-dark mb-5">
+        Aspiring Front-End Web Developer with previous 10+ years of experience
+        in Tourism Industry and now acquiring a new career in Tech with a strong
+        will, positive attitude, learning mentality and hands-on personality.
+        Combining forward-thinking and enthusiasm with well-developed business
+        acumen to promote new product launches and events into successful
+        performance outcomes.
       </p>
       <SocialIcons />
     </div>

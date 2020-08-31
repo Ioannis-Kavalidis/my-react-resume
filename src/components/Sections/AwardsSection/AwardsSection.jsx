@@ -4,7 +4,7 @@ import AwardsListItem from "./AwardsListItem";
 
 const AwardsSection = () => (
   <ResumeSection name="awards">
-    <div className="w-100">
+    <div className="w-100 text-dark">
       <SectionHeading heading="Awards &amp; Certifications" />
       <ul className="fa-ul mb-0">
         <AwardsListItem item="Computer Science Principles: Programming - LinkedIn Certification" />

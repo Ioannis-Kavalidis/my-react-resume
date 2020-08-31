@@ -5,12 +5,12 @@ import TechnologiesList from "../../TechnologiesList";
 
 const SkillsSection = () => (
   <ResumeSection name="skills">
-    <div className="w-100">
-      <SectionHeading heading="Skills" />
+    <div className="w-100 text-danger">
+      <SectionHeading heading="Skills " />
       <SectionSubHeading subHeading="Programming Languages &amp; Tools" />
       <TechnologiesList />
       <SectionSubHeading subHeading="Workflow" />
-      <ul className="fa-ul mb-0">
+      <ul className="fa-ul text-danger mb-0">
         <SkillsListItem item="Responsive Design" />
         <SkillsListItem item="Debugging" />
         <SkillsListItem item="Agile Development &amp; Scrum" />

@@ -3,7 +3,7 @@ import { ResumeSection, SectionHeading } from "../../common";
 
 const InterestsSection = () => (
   <ResumeSection name="interests">
-    <div className="w-100">
+    <div className="w-100 text-dark">
       <SectionHeading heading="Interests" />
       <p>
         Apart from being a web developer, I enjoy reading books and articles on

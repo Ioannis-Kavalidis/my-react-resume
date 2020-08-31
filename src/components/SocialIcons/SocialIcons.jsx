@@ -1,7 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faFacebookF,
   faGithub,
   faLinkedinIn,
   faTwitter,
@@ -9,17 +8,14 @@ import {
 
 const SocialIcons = () => (
   <div className="social-icons">
-    <a href="/">
+    <a href="https://www.linkedin.com/in/ioanniskavalidis/">
       <FontAwesomeIcon icon={faLinkedinIn} />
     </a>
-    <a href="/">
+    <a href="https://github.com/Ioannis-Kavalidis">
       <FontAwesomeIcon icon={faGithub} />
     </a>
-    <a href="/">
+    <a href="https://twitter.com/ioaniskavalidis">
       <FontAwesomeIcon icon={faTwitter} />
-    </a>
-    <a href="/">
-      <FontAwesomeIcon icon={faFacebookF} />
     </a>
   </div>
 );
