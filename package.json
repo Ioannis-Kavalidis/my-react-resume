@@ -2,10 +2,8 @@
   "name": "my-react-resume",
   "version": "0.1.0",
   "description": "my resume build with React",
-  "private": true,
   "author": "Ioannis Kavalidis",
   "main": "index.js",
-  "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.17",
     "@fortawesome/free-brands-svg-icons": "^5.8.1",
