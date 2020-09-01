@@ -1,14 +1,14 @@
 {
-  "main.css": "my-react-resume/static/css/main.94a3906d.chunk.css",
-  "main.js": "my-react-resume/static/js/main.d5601a8d.chunk.js",
-  "main.js.map": "my-react-resume/static/js/main.d5601a8d.chunk.js.map",
+  "main.css": "my-react-resume/static/css/main.56ce1b79.chunk.css",
+  "main.js": "my-react-resume/static/js/main.203a7f7b.chunk.js",
+  "main.js.map": "my-react-resume/static/js/main.203a7f7b.chunk.js.map",
   "runtime~main.js": "my-react-resume/static/js/runtime~main.db16fb92.js",
   "runtime~main.js.map": "my-react-resume/static/js/runtime~main.db16fb92.js.map",
   "static/js/2.3b0d0bfc.chunk.js": "my-react-resume/static/js/2.3b0d0bfc.chunk.js",
   "static/js/2.3b0d0bfc.chunk.js.map": "my-react-resume/static/js/2.3b0d0bfc.chunk.js.map",
   "index.html": "my-react-resume/index.html",
-  "precache-manifest.b0fecbb56d9684f43a57c6d32f8fc0c5.js": "my-react-resume/precache-manifest.b0fecbb56d9684f43a57c6d32f8fc0c5.js",
+  "precache-manifest.c7731cceb53c5f966d44e745afa478df.js": "my-react-resume/precache-manifest.c7731cceb53c5f966d44e745afa478df.js",
   "service-worker.js": "my-react-resume/service-worker.js",
-  "static/css/main.94a3906d.chunk.css.map": "my-react-resume/static/css/main.94a3906d.chunk.css.map",
+  "static/css/main.56ce1b79.chunk.css.map": "my-react-resume/static/css/main.56ce1b79.chunk.css.map",
   "static/media/profile.jpg": "my-react-resume/static/media/profile.19285fb2.jpg"
 }
