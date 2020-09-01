@@ -2,7 +2,7 @@
     "name": "my-react-resume",
     "version": "0.1.0",
     "description": "my resume build with React",
-    "homepage": "my-react-resume",
+    "homepage": "/my-react-resume",
     "author": "Ioannis Kavalidis",
     "main": "index.js",
     "dependencies": {
