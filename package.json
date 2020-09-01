@@ -34,7 +34,7 @@
     "gh-pages": "^3.1.0"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "my-react-resume"
   },
   "browserslist": [
     ">0.2%",
