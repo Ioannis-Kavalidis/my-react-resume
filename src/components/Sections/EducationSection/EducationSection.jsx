@@ -27,7 +27,7 @@ const EducationSection = () => (
       >
         <div>
           <div>
-            • Majored in Tourism and Hospitality has provided me a deep
+            • Majored in Tourism & Hospitality has provided me a deep
             understanding on both sectors <br />• Sharpened my business and
             entrepreneurial spirit while building my overall knowledge <br />•
             Learned how to become proficient and promote the benefits of
