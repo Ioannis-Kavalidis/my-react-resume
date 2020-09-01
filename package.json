@@ -4,7 +4,6 @@
   "description": "my resume build with React",
   "private": true,
   "author": "Ioannis Kavalidis",
-  "homepage": "my-react-resume",
   "main": "index.js",
   "license": "ISC",
   "dependencies": {
