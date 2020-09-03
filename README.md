@@ -6,6 +6,8 @@ A preview of my React Resume below.
 
 ![react resume](./src/img/screenshot.png)
 
+##### "I am currently open for any potential job offer/opportunity."
+
 In the project directory, you can run:
 
 ### `npm start`
