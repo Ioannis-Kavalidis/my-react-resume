@@ -12,7 +12,7 @@ const InterestsSection = () => (
                 EXPO Athens, TEDx Athens, Meet Up, Startup Blink, Open Coffee etc.
             </p>
             <p className="mb-0">
-                Favourite book: “The seven habits of highly effective people” by Stephen R. Covey{' '}
+                Favorite book: “The seven habits of highly effective people” by Stephen R. Covey{' '}
                 <br />
                 Current reading: “Abundance: The future is better than you think” by Peter Diamandis
             </p>
