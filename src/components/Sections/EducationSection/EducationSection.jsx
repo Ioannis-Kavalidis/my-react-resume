@@ -25,10 +25,10 @@ const EducationSection = () => (
                 date="September 2000 - June 2006">
                 <div>
                     <div>
-                        • Majored in Tourism & Hospitality has provided me a deep understanding on
-                        both sectors <br />• Sharpened my business and entrepreneurial spirit while
-                        building my overall knowledge <br />• Learned how to become proficient and
-                        promote the benefits of hospitality to its fullest extend
+                        • Majored in Tourism & Hospitality has provided me with a deep understanding
+                        on both sectors <br />• Sharpened my business and entrepreneurial spirit
+                        while building my overall knowledge <br />• Learned how to become proficient
+                        and promote the benefits of hospitality to its fullest extend
                     </div>
                 </div>
             </ResumeItem>
