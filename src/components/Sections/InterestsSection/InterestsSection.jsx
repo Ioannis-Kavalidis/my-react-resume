@@ -8,8 +8,9 @@ const InterestsSection = () => (
             <p>
                 Apart from being a web developer, I enjoy reading books and articles on self
                 improvement, business development and entrepreneurship, traveling solo and with
-                friends. Participate in various social, professional and cultural events such as:
-                EXPO Athens, TEDx Athens, Meet Up, Startup Blink, Open Coffee etc.
+                friends and love bike riding. Participate in various social, professional and
+                cultural events such as: EXPO Athens, TEDx Athens, Meet Up, Startup Blink, Open
+                Coffee etc.
             </p>
             <p className="mb-0">
                 Favorite book: “The seven habits of highly effective people” by Stephen R. Covey{' '}
