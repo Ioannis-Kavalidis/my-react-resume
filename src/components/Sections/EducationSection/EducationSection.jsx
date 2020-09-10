@@ -11,10 +11,17 @@ const EducationSection = () => (
                 date="December 2019 - January 2021">
                 <div>
                     <div>
-                        • Acquire, improve and master the skills of being a full-stack web developer{' '}
+                        • Acquire, improve and sharpen the skills of being a full-stack web
+                        developer <br />• Learned and worked with HTML, CSS, JavaScript, ReactJS,
+                        NodeJS among others
                         <br />• Created many small and medium scale size projects throughout out
-                        this year <br />• Enjoy working with JavaScript, vanilla or with frameworks
-                        like ReactJS
+                        this year, some of them are:
+                        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- My React Resume site,
+                        built with HTML, CSS, ReactJS and Bootstrap
+                        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Blackjack, a game built
+                        with HTML, CSS and vanilla JavaScript
+                        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To Do List, a small app
+                        built with HTML, CSS and ReactJS
                     </div>
                 </div>
             </ResumeItem>
@@ -28,7 +35,7 @@ const EducationSection = () => (
                         • Majored in Tourism & Hospitality has provided me with a deep understanding
                         on both sectors <br />• Sharpened my business and entrepreneurial spirit
                         while building my overall knowledge <br />• Learned how to become proficient
-                        and promote the benefits of hospitality to its fullest extend
+                        and promote my personal brand in the industry
                     </div>
                 </div>
             </ResumeItem>
